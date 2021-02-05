@@ -9,6 +9,7 @@ import java.util.Scanner;
  * and Comparator interfaces
  * 
  * *testing for clone
+ * *copied by yan
  *
  * @author Paul Bonenfant
  */
