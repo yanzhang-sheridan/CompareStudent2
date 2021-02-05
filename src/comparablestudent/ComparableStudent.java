@@ -7,6 +7,8 @@ import java.util.Scanner;
 /**
  * This class is to demonstrate working with Comparable 
  * and Comparator interfaces
+ * 
+ * *testing for clone
  *
  * @author Paul Bonenfant
  */
